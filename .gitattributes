@@ -1,0 +1,2 @@
+data/embeddings.npy filter=lfs diff=lfs merge=lfs -text
+data/texts.jsonl filter=lfs diff=lfs merge=lfs -text
